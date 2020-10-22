@@ -1,0 +1,26 @@
+_repo: Kahvikulta-1-naytoksinen-savolaispila_63471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nuutinen, Aaro A. (Aaro August)
+    alias: Arola, Aaro A.
+    birthdate: 1886
+    deathdate: 1949
+    gutenberg_agent_id: '52463'
+    url: http://www.gutenberg.org/2009/agents/52463
+    wikipedia: https://fi.wikipedia.org/wiki/Aaro_A._Nuutinen
+description: ''
+gutenberg_issued: '2020-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63471'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Kahvikulta: 1-näytöksinen savolaispila'
+url: http://www.gutenberg.org/ebooks/63471
